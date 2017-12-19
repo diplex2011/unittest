@@ -1,4 +1,5 @@
 from atm import *
+from atm_exceptions import *
 
 import unittest
 
